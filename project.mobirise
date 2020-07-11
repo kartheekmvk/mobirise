@@ -38,7 +38,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 9,
+    "uniqCompNum": 15,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "cookiesAlert": {
@@ -71,7 +71,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "One shop stop for all Microsoft tech stack problems",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
